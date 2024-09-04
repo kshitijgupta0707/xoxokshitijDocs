@@ -1,0 +1,14 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Competitive: kshitij.md
+  # - DSA:  
+      #  - kshitij: index.md
+  - COA: about.md
+  - Os Notes: kshitij.md
+  
+theme: readthedocs
+site_url: " http://xoxokshitij.in"
+use_directory_urls: false
+plugins: []
